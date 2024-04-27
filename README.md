@@ -40,12 +40,12 @@
 
 
 ## Output
-![image](https://github.com/ShriramGH/SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/117991122/1cefc103-d48e-41c9-a438-cd7dc7effbe5)
+![323522339-1cefc103-d48e-41c9-a438-cd7dc7effbe5](https://github.com/DINESH18032004/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119477784/6ca495ab-7b78-47d2-af0a-071cba9275f0)
 
-![image](https://github.com/ShriramGH/SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/117991122/973df8e4-c58e-4f7e-aa71-e3dcdc6b64e3)
+![323522386-973df8e4-c58e-4f7e-aa71-e3dcdc6b64e3](https://github.com/DINESH18032004/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119477784/29751eb0-585a-4050-990f-cadb0b476377)
 
-### Name: Shriram S 
-### Register Number: 212222240098
+### Name: PREM KUMAR R
+### Register Number: 212222230111
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
